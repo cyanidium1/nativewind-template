@@ -2,6 +2,6 @@ This is React Native + TailWindCSS (nativewind) project template. Read and follo
 
 1. Copy repo
 2. Use yarn (not npm)
-3. Install packages and !!!IMPORTANT!!! > 3.3.2 < version of RN: yarn add nativewind yarn add --dev tailwindcss@3.3.2
+3. Install packages and !!!IMPORTANT!!! > 3.3.2 < version of TW: yarn add nativewind yarn add --dev tailwindcss@3.3.2
 4. yarn install + yarn start
 5. Have fun and switch to Flutter /
